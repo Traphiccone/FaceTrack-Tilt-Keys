@@ -1,0 +1,12 @@
+m_leftKeyID1,Q
+m_leftKeyID2,(OPTIONAL)
+m_leftKeyID3,(OPTIONAL)
+m_leftKeyID4,(OPTIONAL)
+m_rightKeyID1,E
+m_rightKeyID2,(OPTIONAL)
+m_rightKeyID3,(OPTIONAL)
+m_rightKeyID4,(OPTIONAL)
+m_toggleBackL,FALSE
+m_toggleBackL,FALSE
+m_degreeMaxBoxL,10
+m_degreeMaxBoxR,10
