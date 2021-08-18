@@ -1,0 +1,34 @@
+﻿Build started 10/13/2016 22:21:11.
+     1>Project "C:\SoftwareProjectsC\FaceTrackTiltKeyMFC\FaceTrackTK\FaceTrackTK\FaceTrackTK.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\FaceTrackTK.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\FaceTrackTK.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ChildFrm.cpp Controller.cpp FaceTrackTK.cpp FaceTrackTKDoc.cpp FaceTrackTKView.cpp ImageProcess.cpp Keyboard.cpp MainFrm.cpp TextDlg.cpp
+         ChildFrm.cpp
+     1>c:\softwareprojectsc\facetracktiltkeymfc\facetracktk\facetracktk\FaceTrackTK.h(11): fatal error C1083: Cannot open include file: 'opencv2/objdetect/objdetect.hpp': No such file or directory
+         Controller.cpp
+     1>c:\softwareprojectsc\facetracktiltkeymfc\facetracktk\facetracktk\Controller.h(1): fatal error C1083: Cannot open include file: 'opencv2/objdetect/objdetect.hpp': No such file or directory
+         FaceTrackTK.cpp
+     1>c:\softwareprojectsc\facetracktiltkeymfc\facetracktk\facetracktk\FaceTrackTK.h(11): fatal error C1083: Cannot open include file: 'opencv2/objdetect/objdetect.hpp': No such file or directory
+         FaceTrackTKDoc.cpp
+     1>c:\softwareprojectsc\facetracktiltkeymfc\facetracktk\facetracktk\FaceTrackTK.h(11): fatal error C1083: Cannot open include file: 'opencv2/objdetect/objdetect.hpp': No such file or directory
+         FaceTrackTKView.cpp
+     1>c:\softwareprojectsc\facetracktiltkeymfc\facetracktk\facetracktk\FaceTrackTK.h(11): fatal error C1083: Cannot open include file: 'opencv2/objdetect/objdetect.hpp': No such file or directory
+         ImageProcess.cpp
+     1>ImageProcess.cpp(1): warning C4603: '_CRT_SECURE_NO_WARNINGS' : macro is not defined or definition is different after precompiled header use
+                 Add macro to precompiled header instead of defining here
+                 ImageProcess.cpp(3) : use of precompiled header
+     1>c:\softwareprojectsc\facetracktiltkeymfc\facetracktk\facetracktk\ImageProcess.h(1): fatal error C1083: Cannot open include file: 'opencv2/objdetect/objdetect.hpp': No such file or directory
+         Keyboard.cpp
+     1>c:\softwareprojectsc\facetracktiltkeymfc\facetracktk\facetracktk\Keyboard.h(1): warning C4005: 'WINVER' : macro redefinition
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\SDKDDKVer.h(215) : see previous definition of 'WINVER'
+     1>Keyboard.cpp(130): warning C4018: '<' : signed/unsigned mismatch
+         MainFrm.cpp
+     1>c:\softwareprojectsc\facetracktiltkeymfc\facetracktk\facetracktk\FaceTrackTK.h(11): fatal error C1083: Cannot open include file: 'opencv2/objdetect/objdetect.hpp': No such file or directory
+         TextDlg.cpp
+     1>c:\softwareprojectsc\facetracktiltkeymfc\facetracktk\facetracktk\FaceTrackTK.h(11): fatal error C1083: Cannot open include file: 'opencv2/objdetect/objdetect.hpp': No such file or directory
+     1>Done Building Project "C:\SoftwareProjectsC\FaceTrackTiltKeyMFC\FaceTrackTK\FaceTrackTK\FaceTrackTK.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.80
