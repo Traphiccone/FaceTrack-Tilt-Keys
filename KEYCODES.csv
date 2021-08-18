@@ -1,0 +1,174 @@
+Key Codes,Description
+VK_LBUTTON,Left mouse button
+VK_RBUTTON,Right mouse button
+VK_CANCEL,Control-break processing
+VK_MBUTTON,Middle mouse button (three-button mouse)
+VK_XBUTTON1,Windowsÿ2000:ÿX1 mouse button
+VK_XBUTTON2,Windowsÿ2000:ÿX2 mouse button
+VK_BACK,BACKSPACE key
+VK_TAB,TAB key
+VK_CLEAR,CLEAR key
+VK_RETURN,ENTER key
+VK_SHIFT,SHIFT key
+VK_CONTROL,CTRL key
+VK_MENU,ALT key
+VK_PAUSE,PAUSE key
+VK_CAPITAL,CAPS LOCK key
+VK_KANA,IME Kana mode
+VK_HANGUEL,IME Hanguel mode (maintained for compatibility; useÿVK_HANGUL)
+VK_HANGUL,IME Hangul mode
+VK_JUNJA,IME Junja mode
+VK_FINAL,IME final mode
+VK_HANJA,IME Hanja mode
+VK_KANJI,IME Kanji mode
+VK_ESCAPE,ESC key
+VK_CONVERT,IME convert
+VK_NONCONVERT,IME nonconvert
+VK_ACCEPT,IME accept
+VK_MODECHANGE,IME mode change request
+VK_SPACE,SPACEBAR
+VK_PRIOR,PAGE UP key
+VK_NEXT,PAGE DOWN key
+VK_END,END key
+VK_HOME,HOME key
+VK_LEFT,LEFT ARROW key
+VK_UP,UP ARROW key
+VK_RIGHT,RIGHT ARROW key
+VK_DOWN,DOWN ARROW key
+VK_SELECT,SELECT key
+VK_PRINT,PRINT key
+VK_EXECUTE,EXECUTE key
+VK_SNAPSHOT,PRINT SCREEN key
+VK_INSERT,INS key
+VK_DELETE,DEL key
+VK_HELP,HELP key
+'0',0 key
+'1',1 key
+'2',2 key
+'3',3 key
+'4',4 key
+'5',5 key
+'6',6 key
+'7',7 key
+'8',8 key
+'9',9 key
+'A',A key
+'B',B key
+'C',C key
+'D',D key
+'E',E key
+'F',F key
+'G',G key
+'H',H key
+'I',I key
+'J',J key
+'K',K key
+'L',L key
+'M',M key
+'N',N key
+'O',O key
+'P',P key
+'Q',Q key
+'R',R key
+'S',S key
+'T',T key
+'U',U key
+'V',V key
+'W',W key
+'X',X key
+'Y',Y key
+'Z',Z key
+VK_LWIN,Left Windows key (Microsoft Natural Keyboard)
+VK_RWIN,Right Windows key (Microsoft Natural Keyboard)
+VK_APPS,Applications key (Microsoft Natural Keyboard)
+VK_SLEEP,Computer Sleep key
+VK_NUMPAD0,Numeric keypad 0 key
+VK_NUMPAD1,Numeric keypad 1 key
+VK_NUMPAD2,Numeric keypad 2 key
+VK_NUMPAD3,Numeric keypad 3 key
+VK_NUMPAD4,Numeric keypad 4 key
+VK_NUMPAD5,Numeric keypad 5 key
+VK_NUMPAD6,Numeric keypad 6 key
+VK_NUMPAD7,Numeric keypad 7 key
+VK_NUMPAD8,Numeric keypad 8 key
+VK_NUMPAD9,Numeric keypad 9 key
+VK_MULTIPLY,Multiply key
+VK_ADD,Add key
+VK_SEPARATOR,Separator key
+VK_SUBTRACT,Subtract key
+VK_DECIMAL,Decimal key
+VK_DIVIDE,Divide key
+VK_F1,F1 key
+VK_F2,F2 key
+VK_F3,F3 key
+VK_F4,F4 key
+VK_F5,F5 key
+VK_F6,F6 key
+VK_F7,F7 key
+VK_F8,F8 key
+VK_F9,F9 key
+VK_F10,F10 key
+VK_F11,F11 key
+VK_F12,F12 key
+VK_F13,F13 key
+VK_F14,F14 key
+VK_F15,F15 key
+VK_F16,F16 key
+VK_F17,F17 key
+VK_F18,F18 key
+VK_F19,F19 key
+VK_F20,F20 key
+VK_F21,F21 key
+VK_F22,F22 key
+VK_F23,F23 key
+VK_F24,F24 key
+VK_NUMLOCK,NUM LOCK key
+VK_SCROLL,SCROLL LOCK key
+VK_LSHIFT,Left SHIFT key
+VK_RSHIFT,Right SHIFT key
+VK_LCONTROL,Left CONTROL key
+VK_RCONTROL,Right CONTROL key
+VK_LMENU,Left MENU key
+VK_RMENU,Right MENU key
+VK_BROWSER_BACK,Windowsÿ2000:ÿBrowser Back key
+VK_BROWSER_FORWARD,Windowsÿ2000:ÿBrowser Forward key
+VK_BROWSER_REFRESH,Windowsÿ2000:ÿBrowser Refresh key
+VK_BROWSER_STOP,Windowsÿ2000:ÿBrowser Stop key
+VK_BROWSER_SEARCH,Windowsÿ2000:ÿBrowser Search key
+VK_BROWSER_FAVORITES,Windowsÿ2000:ÿBrowser Favorites key
+VK_BROWSER_HOME,Windowsÿ2000:ÿBrowser Launch and Home key
+VK_VOLUME_MUTE,Windowsÿ2000:ÿVolume Mute key
+VK_VOLUME_DOWN,Windowsÿ2000:ÿVolume Down key
+VK_VOLUME_UP,Windowsÿ2000:ÿVolume Up key
+VK_MEDIA_NEXT_TRACK,Windowsÿ2000:ÿNext Track key
+VK_MEDIA_PREV_TRACK,Windowsÿ2000:ÿPrevious Track key
+VK_MEDIA_STOP,Windowsÿ2000:ÿStop Media key
+VK_MEDIA_PLAY_PAUSE,Windowsÿ2000:ÿPlay/Pause Media key
+VK_LAUNCH_MAIL,Windowsÿ2000:ÿLaunch Mail key
+VK_LAUNCH_MEDIA_SELECT,Windowsÿ2000:ÿSelect Media key
+VK_LAUNCH_APP1,Windowsÿ2000:ÿLaunch Application 1 key
+VK_LAUNCH_APP2,Windowsÿ2000:ÿLaunch Application 2 key
+VK_OEM_1,"Windowsÿ2000:ÿfor the US standard keyboard, the ';:' key"
+VK_OEM_PLUS,"Windowsÿ2000:ÿfor any country/region, the '+' key"
+VK_OEM_COMMA,"Windowsÿ2000:ÿfor any country/region, the ',' key"
+VK_OEM_MINUS,"Windowsÿ2000:ÿfor any country/region, the '-' key"
+VK_OEM_PERIOD,"Windowsÿ2000:ÿfor any country/region, the '.' key"
+VK_OEM_2,"Windowsÿ2000:ÿfor the US standard keyboard, the '/?' key"
+VK_OEM_3,"Windowsÿ2000:ÿfor the US standard keyboard, the '`~' key"
+VK_OEM_4,"Windowsÿ2000:ÿfor the US standard keyboard, the '[{' key"
+VK_OEM_5,"Windowsÿ2000:ÿfor the US standard keyboard, the '\|' key"
+VK_OEM_6,"Windowsÿ2000:ÿfor the US standard keyboard, the ']}' key"
+VK_OEM_7,"Windowsÿ2000:ÿfor the US standard keyboard, the 'single-quote/double-quote' key"
+VK_OEM_8,
+VK_OEM_102,Windowsÿ2000:ÿeither the '<>' key or the '\|' key on the RT 102-key keyboard
+VK_PROCESSKEY,"Windows 95, Windows NT 4.0, and Windowsÿ2000:ÿIME PROCESS key"
+VK_PACKET,Windowsÿ2000:ÿUsed to pass Unicode characters as if they were keystrokes. The VK_PACKET key is the low word of a 32-bit Virtual Key value used for non-keyboard input methods. The Unicode character is the high word.
+VK_ATTN,Attn key
+VK_CRSEL,CrSel key
+VK_EXSEL,ExSel key
+VK_EREOF,Erase EOF key
+VK_PLAY,Play key
+VK_ZOOM,Zoom key
+VK_NONAME,Reserved for future use
+VK_PA1,PA1 key
+VK_OEM_CLEAR,Clear key
